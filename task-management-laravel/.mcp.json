@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "wsl.exe",
+            "args": [
+                "/home/teds/.config/herd-lite/bin/php",
+                "/home/teds/koda-assessment/task-management/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
